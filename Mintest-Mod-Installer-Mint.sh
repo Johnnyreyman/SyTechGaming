@@ -10,4 +10,4 @@ mv master.zip $Rename-master.zip
 gksudo "unzip /home/johnathanr/Downloads/'Minetest Mods'/$Rename-master.zip -d /usr/share/games/minetest/mods/"
 zenity --info --text "Your $Rename Mod Installed correctly. Enable it in Minetest to continue"
 minetest
-zenity --info --text "Thank you for using the Minetest installer by SyTechGames!"
+zenity --info --text "Thank you for using the Minetest Mod Installer by SyTechGames!"
