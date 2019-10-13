@@ -1,5 +1,5 @@
 #/bin/bash
-#A simple installer for Minetest on Linux Mint.
+#A simple mod installer for Minetest on Linux Mint.
 cd ~/Downloads/
 mkdir ./'Minetest Mods'
 cd ./'Minetest Mods'
